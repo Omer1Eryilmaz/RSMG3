@@ -4,6 +4,5 @@ The code was used to replicate the experiments in "Modularizing deep learning vi
 .py and .ipynb files are identical. The latter is used to save the outputs. 
 
 
-Duan, Shiyu, Shujian Yu, and José C. Príncipe. "Modularizing deep learning via pairwise learning with kernels." IEEE Transactions on Neural Networks and Learning Systems 33, no. 4 (2021): 1441-1451.
-
+Duan, Shiyu, Shujian Yu, and Jose C. Principe. "Modularizing Deep Learning via Pairwise Learning With Kernels." IEEE transactions on neural networks and learning systems 33, no. 4 (2022): 1441-1451.
 
